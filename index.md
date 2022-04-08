@@ -4,7 +4,7 @@ We hope to learn many **software tools** throut this quarter.
 
 *File after 1st Update*
 
-Adding a link to my friend's Github page [Link](lab-report-1-week-2.html)
+Adding a link to my friend's Github page [Link](lab-.html)
 The course website [Link](https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/home)
 
 ***
