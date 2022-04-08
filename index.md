@@ -18,4 +18,5 @@ The course website [Link](https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2
 * Seventh
 
 ```Geisel Library ```
-![Image](https://i.redd.it/wo1ncyna6cyz.jpg)
+[WebLink](https://i.redd.it/wo1ncyna6cyz.jpg)
+![Image itself](Geisel.jpg)
